@@ -9,7 +9,7 @@
             
             <div class="collapse navbar-collapse" id="navbarContent">
                 <form class="d-flex mx-auto" style="width: 50%;">
-                    <input class="form-control me-2" type="search" placeholder="Buscar bebidas..." aria-label="Search">
+                    <input class="form-control me-2" type="search" placeholder="Pesquisar..." aria-label="Search">
                     <button class="btn btn-outline-light" type="submit">Buscar</button>
                 </form>
                 
